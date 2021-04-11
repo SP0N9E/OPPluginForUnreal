@@ -1,0 +1,78 @@
+/MANIFEST:NO
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:5000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"opencv_world331.dll"
+/LIBPATH:"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\ThirdParty\OpenPose\3rdparty\windows\opencv\x64\vc15\lib"
+/LIBPATH:"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\ThirdParty\OpenPose\lib"
+/LIBPATH:"C:\Program Files\Epic Games\UE_4.19\Engine\Plugins\Runtime\MixedRealityFramework\Source\ThirdParty\OpenCV\lib\Win64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Intermediate\Build\Win64\UE4Editor\Development\LoadDLL\Module.LoadDLL.cpp.obj"
+"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Intermediate\Build\Win64\UE4Editor\Development\LoadDLL\LoadDLLBPLibrary.cpp.obj"
+"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Intermediate\Build\Win64\UE4Editor\Development\LoadDLL\OPWrapper.cpp.obj"
+"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Intermediate\Build\Win64\UE4Editor\Development\LoadDLL\SimpleThread.cpp.obj"
+"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Intermediate\Build\Win64\UE4Editor\Development\LoadDLL\Module.LoadDLL.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\LoadDLL\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"opencv_world331.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Projects.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-InputCore.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-UnrealEd.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LevelEditor.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-CoreUObject.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Engine.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Slate.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SlateCore.lib"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Core.lib"
+/OUT:"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Binaries\Win64\UE4Editor-LoadDLL-6620.dll"
+/IMPLIB:"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LoadDLL-6620.suppressed.lib"
+/PDB:"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Binaries\Win64\UE4Editor-LoadDLL-6620.pdb"
+/ignore:4078

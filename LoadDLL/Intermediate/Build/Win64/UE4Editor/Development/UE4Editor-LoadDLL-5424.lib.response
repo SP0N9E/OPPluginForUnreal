@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-LoadDLL-5424.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.h.obj"
+"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Intermediate\Build\Win64\UE4Editor\Development\LoadDLL\Module.LoadDLL.cpp.obj"
+"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Intermediate\Build\Win64\UE4Editor\Development\LoadDLL\OPOutputParser.cpp.obj"
+"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Intermediate\Build\Win64\UE4Editor\Development\LoadDLL\Module.LoadDLL.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\LoadDLL\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\WillWorkspace\UnrealProject\OP_BrandNewTest\Plugins\LoadDLL\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-LoadDLL-5424.lib"
