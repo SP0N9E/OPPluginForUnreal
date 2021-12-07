@@ -11,5 +11,12 @@ Use OpenPose in Unreal Engine
 
 打开工程文件后，选择map 关卡(map level)点击运行即可
 
+`AboutPlugin`中包含插件制作思路
 
 
+
+## Demo
+
+下载链接：https://pan.baidu.com/s/1P5swUbS8sXbOozjC-tfmHw  提取码：dddd
+
+demo应该不可直接运行，需编译，也可查看实现方式
